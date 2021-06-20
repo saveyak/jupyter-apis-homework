@@ -5,7 +5,7 @@
 
 For this assignment, I practiced using the API's for two different websites: Weather.com, and Last.FM. I practiced searching for information via an API and then looping through the data.
 
-# Something I learned in the process
+# Some things I learned in the process
 
 * How to look through an API documentation to get the information I need
 * How to concatenate strings
@@ -13,7 +13,7 @@ For this assignment, I practiced using the API's for two different websites: Wea
 * How to create a list of endpoints from an API and loop through them to get information on a large group of subjects
 * How to test my code on just the first two or three results so that I don't waste time grabbing huge amounts of information with bad code
 
-# Something you found challenging 
+# Some things I found challenging 
 
 * I found it annoying that after I finished my Notebook, I had to go back and manually edit out all the times that I had put my API key in the endpoint. I realized later that I could create an object called api_key, then create all my endpoints by concatenating strings with api_key, instead of actually typing out the key. This meant that at the end I only had to change one object. 
 
